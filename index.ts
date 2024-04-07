@@ -38,7 +38,7 @@ function main() {
     }
 
     const layout = new Menu.LGLLayout();
-    const menu = new Menu.Composer<typeof layout>("Skibidi Toilet Hack", "bruh", layout);
+    const menu = new Menu.Composer<typeof layout>("Skibidi Toilet Hack", "https://github.com/commonuserlol/toilet-fight-hijack", layout);
 
     menu.icon("https://media.tenor.com/YzseE_-j48QAAAAM/skibidi-toilet.gif", "Web");
 
