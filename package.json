@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@types/frida-gum": "^18.7.0",
+    "frida-il2cpp-bridge": "github:commonuserlol/frida-il2cpp-bridge#wrappers",
+    "frida-java-menu": "file:../javamenu/frida-java-menu-2.0.1.tgz"
+  }
+}
